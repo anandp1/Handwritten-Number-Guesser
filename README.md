@@ -8,5 +8,7 @@ This program uses the MNIST Digit data set to solve my problem. It allows user t
 * Matplotlib
 * Numpy
 * Cv2
+
+<img src="data/finaltest.jpg" width = "200">
 # Example
 ![](data/finaltest.jpg)
