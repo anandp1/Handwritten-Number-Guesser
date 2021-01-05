@@ -12,4 +12,4 @@ This program uses the MNIST Digit data set to solve my problem. It allows user t
 # Example
 
 <img src="data/finaltest.jpg" width = "200">
-![](data/finaltest.jpg)
+
