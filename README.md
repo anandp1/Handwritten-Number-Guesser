@@ -9,4 +9,4 @@ This program uses the MNIST Digit data set to solve my problem. It allows user t
 * Numpy
 * Cv2
 # Example
-![](data/filename%20finaltest.jpg)
+![](data/filename finaltest.jpg)
